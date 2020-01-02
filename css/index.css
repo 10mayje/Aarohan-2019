@@ -434,8 +434,8 @@ a {
   font-weight: 700;
 }
 
-.winkies h1{
-  display:inline;
+.winkies h1 {
+  display: inline;
 }
 
 .winkies img {
@@ -595,19 +595,20 @@ a {
   .arhn_landing {
     margin-top: 0;
   }
-  .nitd,.nitd-black{
+  .nitd,
+  .nitd-black {
     display: none;
   }
-  .winkies{
+  .winkies {
     text-align: center;
   }
-  .winkies img{
+  .winkies img {
     width: 22vw;
   }
-  .winkies h1{
-    display:block;
+  .winkies h1 {
+    display: block;
   }
-  .new_sponsors_box h1{
+  .new_sponsors_box h1 {
     font-size: 2rem;
   }
   .section_wrap {
@@ -679,7 +680,7 @@ a {
   font-size: 2rem;
 }
 
-.sponsor_post1{
+.sponsor_post1 {
   font-size: 2.5rem;
 }
 
@@ -759,7 +760,7 @@ a {
   flex-direction: column;
   align-items: center;
 }
-.new_sponsors_box{
+.new_sponsors_box {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -772,8 +773,6 @@ a {
   height: 7vh;
   margin: 2rem 5rem;
 }
-
-
 
 /* team  */
 .team {
@@ -877,19 +876,19 @@ a {
 @media screen and (max-width: 600px) {
   /*landing */
 
-  #landing{
+  #landing {
     height: 300vh;
   }
 
- .top_photu{
-   margin-top: 6vh;
- }
+  .top_photu {
+    margin-top: 6vh;
+  }
 
-  #my_resizable{
+  #my_resizable {
     margin-top: 33vh;
   }
 
-  .gif{
+  .gif {
     margin-top: 33vh;
   }
 
